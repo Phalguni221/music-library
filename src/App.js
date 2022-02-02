@@ -37,9 +37,9 @@ const App = () => {
       <div>
           <SearchBar handleSearch={handleSearch} />
           {message}
-          <DataContext.Provider value={data} />
+          <DataContext.Provider value={data}>
           <Gallery />
-          <DataContext.Provider />
+          </DataContext.Provider>
       </div>
   )
 }
