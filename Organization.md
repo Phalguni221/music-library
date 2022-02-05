@@ -13,3 +13,5 @@ Gallery
 Gallery itself will not need to track state!
 GalleryItem
 View: This will be a Boolean state variable that toggles the "detail" view of a given song.
+
+//NOTE: Software for the Module 5 HW Assignment: Improve a Music Library Interface is Using the Older Version of the the React-Router
