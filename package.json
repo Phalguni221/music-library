@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.0",
+    "node": "^17.4.0",
+    "react": "^0.0.0-experimental-4de99b3ca-20220221",
+    "react-app": "^1.1.2",
+    "react-dom": "^0.0.0-experimental-4de99b3ca-20220221"
+  }
+}
